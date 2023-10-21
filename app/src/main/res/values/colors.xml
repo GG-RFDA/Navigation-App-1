@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Задаём некоторый набор цветов -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#D2BFD2</color>
+    <color name="yellow">#FEEED6</color>
+    <color name="orange">#F2D1BB</color>
+    <color name="dark_gray">#75838D</color>
+    <color name="gray">#A9BCBF</color>
+</resources>
